@@ -9,7 +9,7 @@
 > *   **模型扩展性**：当前默认配置使用的是 Llama 3 **8B** 模型。如果你拥有更强大的硬件资源（例如使用 **Thor** 等高性能推理框架），完全可以部署 **70B** 或更大参数的模型，以获得更深度的理解能力和更惊艳的交互体验。
 <p align="center">
   <a href="https://www.bilibili.com/video/BV12NSMBREwr/?spm_id_from=333.337.search-card.all.click&vd_source=e624924603cde403f14272de3d1eea6f" target="_blank">
-    <img src="https://github.com/zsp1018/nao-ai-interaction/raw/main/talk.png" width="640" alt="点击查看B站演示视频">
+    <img src="https://github.com/zsp1018/nao-ai-interaction/raw/main/talk.gif" width="640" alt="点击查看B站演示视频">
   </a>
 </p>
 ## 功能特性
