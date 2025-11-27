@@ -9,7 +9,7 @@
 > *   **模型扩展性**：当前默认配置使用的是 Llama 3 **8B** 模型。如果你拥有更强大的硬件资源（例如使用 **Thor** 等高性能推理框架），完全可以部署 **70B** 或更大参数的模型，以获得更深度的理解能力和更惊艳的交互体验。
 <p align="center">
   <a href="https://www.bilibili.com/video/BV1GzULBQE59?vd_source=39c511500608502c81988c838076ef0d" target="_blank">
-    <img src="[https://github.com/zsp1018/Wushu-Arena-Car/raw/main/photo.png](https://m.bilibili.com/video/BV12NSMBREwr?buvid=Y2487E2F51FDACEF4CBC92AF3B87A8E57FDA&is_story_h5=false&mid=b8qPrFfYkGd%2FHCaavvjbP38FTQ%2FSZMtL1rElX6M3iMo%3D&plat_id=240&share_from=ugc&share_medium=iphone&share_plat=ios&share_source=WEIXIN&share_tag=s_i&timestamp=1764247890&unique_k=l6c8Gr7&up_id=3546374763186621)" width="640" alt="点击查看B站演示视频">
+    <img src="[[https://github.com/zsp1018/Wushu-Arena-Car/raw/main/photo.png](https://m.bilibili.com/video/BV12NSMBREwr?buvid=Y2487E2F51FDACEF4CBC92AF3B87A8E57FDA&is_story_h5=false&mid=b8qPrFfYkGd%2FHCaavvjbP38FTQ%2FSZMtL1rElX6M3iMo%3D&plat_id=240&share_from=ugc&share_medium=iphone&share_plat=ios&share_source=WEIXIN&share_tag=s_i&timestamp=1764247890&unique_k=l6c8Gr7&up_id=3546374763186621)](https://m.bilibili.com/video/BV12NSMBREwr?buvid=Y2487E2F51FDACEF4CBC92AF3B87A8E57FDA&is_story_h5=false&mid=b8qPrFfYkGd%2FHCaavvjbP38FTQ%2FSZMtL1rElX6M3iMo%3D&plat_id=240&share_from=ugc&share_medium=iphone&share_plat=ios&share_source=WEIXIN&share_tag=s_i&timestamp=1764247890&unique_k=l6c8Gr7&up_id=3546374763186621)" width="640" alt="点击查看B站演示视频">
   </a>
 </p>
 ## 功能特性
