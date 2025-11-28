@@ -1,0 +1,8 @@
+# GitLab Pages CI Configuration
+documentation:
+  script:
+    - echo "This is a GitLab Pages Deployment"
+    - echo "Deploying GitLab Pages..."
+  artifacts:
+    paths:
+      - public
